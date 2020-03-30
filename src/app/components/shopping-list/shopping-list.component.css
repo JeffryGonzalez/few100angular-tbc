@@ -1,0 +1,10 @@
+.purchased {
+  text-decoration: line-through;
+  color: gray;
+}
+
+pre {
+  color: green;
+  background-color: black;
+  font-size: 2em;
+}
